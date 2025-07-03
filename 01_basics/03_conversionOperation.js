@@ -26,6 +26,7 @@
 //------------------------------Operations------------------------------------------
 
 let value =3
+let value =5
 let negValue = -value
 //console.log(negValue)
 
