@@ -19,7 +19,7 @@ const newString = gameName.substring(0,4);
 console.log(newString)
 
 const anotherString = gameName.slice(-2,4);
-console.log(anotherString)//?
+console.log(anotherString)
 
 const newStringOne ="    utkarsh    ";
 console.log(newStringOne);
@@ -30,3 +30,5 @@ console.log(newStringOne.trim());
 
 // console.log(url.includes('sundar'));
 // console.log(url.split('-'));
+
+//HELLOKIT
